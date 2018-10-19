@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<weatherdata>
+  <location>
+    <name>Aarhus</name>
+    <type>Administration centre</type>
+    <country>Denmark</country>
+    <timezone id="Europe/Copenhagen" utcoffsetMinutes="120" />
+    <location altitude="10" latitude="56.15674" longitude="10.21076" geobase="geonames" geobaseid="2624652" />
+  </location>
+  <credit>
+    <!--In order to use the free weather data from yr no, you HAVE to display 
+the following text clearly visible on your web page. The text should be a 
+link to the specified URL.-->
+    <!--Please read more about our conditions and guidelines at http://om.yr.no/verdata/  English explanation at http://om.yr.no/verdata/free-weather-data/-->
+    <link text="Weather forecast from Yr, delivered by the Norwegian Meteorological Institute and the NRK" url="http://www.yr.no/place/Denmark/Central_Jutland/Aarhus/" />
+  </credit>
+  <links>
+    <link id="xmlSource" url="http://www.yr.no/place/Denmark/Central_Jutland/Aarhus/forecast.xml" />
+    <link id="xmlSourceHourByHour" url="http://www.yr.no/place/Denmark/Central_Jutland/Aarhus/forecast_hour_by_hour.xml" />
+    <link id="overview" url="http://www.yr.no/place/Denmark/Central_Jutland/Aarhus/" />
+    <link id="hourByHour" url="http://www.yr.no/place/Denmark/Central_Jutland/Aarhus/hour_by_hour" />
+    <link id="longTermForecast" url="http://www.yr.no/place/Denmark/Central_Jutland/Aarhus/long" />
+  </links>
+  <meta>
+    <lastupdate>2018-04-25T22:28:00</lastupdate>
+    <nextupdate>2018-04-26T06:00:00</nextupdate>
+  </meta>
+  <sun rise="2018-04-26T05:46:42" set="2018-04-26T20:48:37" />
+  <forecast>
+    <tabular>
+      <time from="2018-04-26T02:00:00" to="2018-04-26T03:00:00">
+        <!-- Valid from 2018-04-26T02:00:00 to 2018-04-26T03:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T02:00:00 -->
+        <windDirection deg="257.1" code="WSW" name="West-southwest" />
+        <windSpeed mps="4.1" name="Gentle breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1004.9" />
+      </time>
+      <time from="2018-04-26T03:00:00" to="2018-04-26T04:00:00">
+        <!-- Valid from 2018-04-26T03:00:00 to 2018-04-26T04:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T03:00:00 -->
+        <windDirection deg="259.6" code="W" name="West" />
+        <windSpeed mps="4.3" name="Gentle breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1004.8" />
+      </time>
+      <time from="2018-04-26T04:00:00" to="2018-04-26T05:00:00">
+        <!-- Valid from 2018-04-26T04:00:00 to 2018-04-26T05:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T04:00:00 -->
+        <windDirection deg="257.9" code="WSW" name="West-southwest" />
+        <windSpeed mps="4.3" name="Gentle breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1004.7" />
+      </time>
+      <time from="2018-04-26T05:00:00" to="2018-04-26T06:00:00">
+        <!-- Valid from 2018-04-26T05:00:00 to 2018-04-26T06:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T05:00:00 -->
+        <windDirection deg="256.8" code="WSW" name="West-southwest" />
+        <windSpeed mps="4.0" name="Gentle breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1004.5" />
+      </time>
+      <time from="2018-04-26T06:00:00" to="2018-04-26T07:00:00">
+        <!-- Valid from 2018-04-26T06:00:00 to 2018-04-26T07:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T06:00:00 -->
+        <windDirection deg="254.7" code="WSW" name="West-southwest" />
+        <windSpeed mps="3.0" name="Light breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1004.5" />
+      </time>
+      <time from="2018-04-26T07:00:00" to="2018-04-26T08:00:00">
+        <!-- Valid from 2018-04-26T07:00:00 to 2018-04-26T08:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T07:00:00 -->
+        <windDirection deg="249.0" code="WSW" name="West-southwest" />
+        <windSpeed mps="3.0" name="Light breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1004.6" />
+      </time>
+      <time from="2018-04-26T08:00:00" to="2018-04-26T09:00:00">
+        <!-- Valid from 2018-04-26T08:00:00 to 2018-04-26T09:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T08:00:00 -->
+        <windDirection deg="247.2" code="WSW" name="West-southwest" />
+        <windSpeed mps="3.1" name="Light breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1004.9" />
+      </time>
+      <time from="2018-04-26T09:00:00" to="2018-04-26T10:00:00">
+        <!-- Valid from 2018-04-26T09:00:00 to 2018-04-26T10:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T09:00:00 -->
+        <windDirection deg="224.9" code="SW" name="Southwest" />
+        <windSpeed mps="2.7" name="Light breeze" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1005.0" />
+      </time>
+      <time from="2018-04-26T10:00:00" to="2018-04-26T11:00:00">
+        <!-- Valid from 2018-04-26T10:00:00 to 2018-04-26T11:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T10:00:00 -->
+        <windDirection deg="230.9" code="SW" name="Southwest" />
+        <windSpeed mps="2.9" name="Light breeze" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1005.1" />
+      </time>
+      <time from="2018-04-26T11:00:00" to="2018-04-26T12:00:00">
+        <!-- Valid from 2018-04-26T11:00:00 to 2018-04-26T12:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T11:00:00 -->
+        <windDirection deg="244.1" code="WSW" name="West-southwest" />
+        <windSpeed mps="4.6" name="Gentle breeze" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1005.1" />
+      </time>
+      <time from="2018-04-26T12:00:00" to="2018-04-26T13:00:00">
+        <!-- Valid from 2018-04-26T12:00:00 to 2018-04-26T13:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T12:00:00 -->
+        <windDirection deg="252.9" code="WSW" name="West-southwest" />
+        <windSpeed mps="4.6" name="Gentle breeze" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1005.4" />
+      </time>
+      <time from="2018-04-26T13:00:00" to="2018-04-26T14:00:00">
+        <!-- Valid from 2018-04-26T13:00:00 to 2018-04-26T14:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T13:00:00 -->
+        <windDirection deg="256.2" code="WSW" name="West-southwest" />
+        <windSpeed mps="5.1" name="Gentle breeze" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1005.5" />
+      </time>
+      <time from="2018-04-26T14:00:00" to="2018-04-26T15:00:00">
+        <!-- Valid from 2018-04-26T14:00:00 to 2018-04-26T15:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T14:00:00 -->
+        <windDirection deg="256.4" code="WSW" name="West-southwest" />
+        <windSpeed mps="5.5" name="Moderate breeze" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1005.7" />
+      </time>
+      <time from="2018-04-26T15:00:00" to="2018-04-26T16:00:00">
+        <!-- Valid from 2018-04-26T15:00:00 to 2018-04-26T16:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T15:00:00 -->
+        <windDirection deg="256.6" code="WSW" name="West-southwest" />
+        <windSpeed mps="6.2" name="Moderate breeze" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1006.0" />
+      </time>
+      <time from="2018-04-26T16:00:00" to="2018-04-26T17:00:00">
+        <!-- Valid from 2018-04-26T16:00:00 to 2018-04-26T17:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T16:00:00 -->
+        <windDirection deg="259.3" code="W" name="West" />
+        <windSpeed mps="6.5" name="Moderate breeze" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1006.3" />
+      </time>
+      <time from="2018-04-26T17:00:00" to="2018-04-26T18:00:00">
+        <!-- Valid from 2018-04-26T17:00:00 to 2018-04-26T18:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T17:00:00 -->
+        <windDirection deg="261.2" code="W" name="West" />
+        <windSpeed mps="6.4" name="Moderate breeze" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1006.5" />
+      </time>
+      <time from="2018-04-26T18:00:00" to="2018-04-26T19:00:00">
+        <!-- Valid from 2018-04-26T18:00:00 to 2018-04-26T19:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T18:00:00 -->
+        <windDirection deg="263.1" code="W" name="West" />
+        <windSpeed mps="6.6" name="Moderate breeze" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1006.7" />
+      </time>
+      <time from="2018-04-26T19:00:00" to="2018-04-26T20:00:00">
+        <!-- Valid from 2018-04-26T19:00:00 to 2018-04-26T20:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T19:00:00 -->
+        <windDirection deg="260.7" code="W" name="West" />
+        <windSpeed mps="6.5" name="Moderate breeze" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1006.9" />
+      </time>
+      <time from="2018-04-26T20:00:00" to="2018-04-26T21:00:00">
+        <!-- Valid from 2018-04-26T20:00:00 to 2018-04-26T21:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T20:00:00 -->
+        <windDirection deg="258.0" code="WSW" name="West-southwest" />
+        <windSpeed mps="6.0" name="Moderate breeze" />
+        <temperature unit="celsius" value="10" />
+        <pressure unit="hPa" value="1007.5" />
+      </time>
+      <time from="2018-04-26T21:00:00" to="2018-04-26T22:00:00">
+        <!-- Valid from 2018-04-26T21:00:00 to 2018-04-26T22:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T21:00:00 -->
+        <windDirection deg="251.6" code="WSW" name="West-southwest" />
+        <windSpeed mps="4.8" name="Gentle breeze" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1008.0" />
+      </time>
+      <time from="2018-04-26T22:00:00" to="2018-04-26T23:00:00">
+        <!-- Valid from 2018-04-26T22:00:00 to 2018-04-26T23:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T22:00:00 -->
+        <windDirection deg="249.7" code="WSW" name="West-southwest" />
+        <windSpeed mps="4.6" name="Gentle breeze" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1008.5" />
+      </time>
+      <time from="2018-04-26T23:00:00" to="2018-04-27T00:00:00">
+        <!-- Valid from 2018-04-26T23:00:00 to 2018-04-27T00:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-26T23:00:00 -->
+        <windDirection deg="245.0" code="WSW" name="West-southwest" />
+        <windSpeed mps="4.9" name="Gentle breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1008.8" />
+      </time>
+      <time from="2018-04-27T00:00:00" to="2018-04-27T01:00:00">
+        <!-- Valid from 2018-04-27T00:00:00 to 2018-04-27T01:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T00:00:00 -->
+        <windDirection deg="237.8" code="WSW" name="West-southwest" />
+        <windSpeed mps="4.7" name="Gentle breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1009.0" />
+      </time>
+      <time from="2018-04-27T01:00:00" to="2018-04-27T02:00:00">
+        <!-- Valid from 2018-04-27T01:00:00 to 2018-04-27T02:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T01:00:00 -->
+        <windDirection deg="230.0" code="SW" name="Southwest" />
+        <windSpeed mps="4.4" name="Gentle breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1009.0" />
+      </time>
+      <time from="2018-04-27T02:00:00" to="2018-04-27T03:00:00">
+        <!-- Valid from 2018-04-27T02:00:00 to 2018-04-27T03:00:00 -->
+        <symbol number="2" numberEx="2" name="Fair" var="02n" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T02:00:00 -->
+        <windDirection deg="225.5" code="SW" name="Southwest" />
+        <windSpeed mps="3.8" name="Gentle breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1008.8" />
+      </time>
+      <time from="2018-04-27T03:00:00" to="2018-04-27T04:00:00">
+        <!-- Valid from 2018-04-27T03:00:00 to 2018-04-27T04:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01n" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T03:00:00 -->
+        <windDirection deg="225.8" code="SW" name="Southwest" />
+        <windSpeed mps="3.3" name="Light breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1008.5" />
+      </time>
+      <time from="2018-04-27T04:00:00" to="2018-04-27T05:00:00">
+        <!-- Valid from 2018-04-27T04:00:00 to 2018-04-27T05:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01n" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T04:00:00 -->
+        <windDirection deg="229.6" code="SW" name="Southwest" />
+        <windSpeed mps="3.3" name="Light breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1008.2" />
+      </time>
+      <time from="2018-04-27T05:00:00" to="2018-04-27T06:00:00">
+        <!-- Valid from 2018-04-27T05:00:00 to 2018-04-27T06:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01n" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T05:00:00 -->
+        <windDirection deg="234.2" code="SW" name="Southwest" />
+        <windSpeed mps="3.2" name="Light breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1008.2" />
+      </time>
+      <time from="2018-04-27T06:00:00" to="2018-04-27T07:00:00">
+        <!-- Valid from 2018-04-27T06:00:00 to 2018-04-27T07:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T06:00:00 -->
+        <windDirection deg="233.0" code="SW" name="Southwest" />
+        <windSpeed mps="2.9" name="Light breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1008.2" />
+      </time>
+      <time from="2018-04-27T07:00:00" to="2018-04-27T08:00:00">
+        <!-- Valid from 2018-04-27T07:00:00 to 2018-04-27T08:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T07:00:00 -->
+        <windDirection deg="228.5" code="SW" name="Southwest" />
+        <windSpeed mps="3.0" name="Light breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1008.4" />
+      </time>
+      <time from="2018-04-27T08:00:00" to="2018-04-27T09:00:00">
+        <!-- Valid from 2018-04-27T08:00:00 to 2018-04-27T09:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T08:00:00 -->
+        <windDirection deg="232.4" code="SW" name="Southwest" />
+        <windSpeed mps="3.8" name="Gentle breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1008.7" />
+      </time>
+      <time from="2018-04-27T09:00:00" to="2018-04-27T10:00:00">
+        <!-- Valid from 2018-04-27T09:00:00 to 2018-04-27T10:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T09:00:00 -->
+        <windDirection deg="235.4" code="SW" name="Southwest" />
+        <windSpeed mps="4.2" name="Gentle breeze" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1008.9" />
+      </time>
+      <time from="2018-04-27T10:00:00" to="2018-04-27T11:00:00">
+        <!-- Valid from 2018-04-27T10:00:00 to 2018-04-27T11:00:00 -->
+        <symbol number="2" numberEx="2" name="Fair" var="02d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T10:00:00 -->
+        <windDirection deg="238.7" code="WSW" name="West-southwest" />
+        <windSpeed mps="4.4" name="Gentle breeze" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1009.2" />
+      </time>
+      <time from="2018-04-27T11:00:00" to="2018-04-27T12:00:00">
+        <!-- Valid from 2018-04-27T11:00:00 to 2018-04-27T12:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T11:00:00 -->
+        <windDirection deg="246.7" code="WSW" name="West-southwest" />
+        <windSpeed mps="5.4" name="Gentle breeze" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1009.4" />
+      </time>
+      <time from="2018-04-27T12:00:00" to="2018-04-27T13:00:00">
+        <!-- Valid from 2018-04-27T12:00:00 to 2018-04-27T13:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T12:00:00 -->
+        <windDirection deg="249.1" code="WSW" name="West-southwest" />
+        <windSpeed mps="5.4" name="Gentle breeze" />
+        <temperature unit="celsius" value="14" />
+        <pressure unit="hPa" value="1009.6" />
+      </time>
+      <time from="2018-04-27T13:00:00" to="2018-04-27T14:00:00">
+        <!-- Valid from 2018-04-27T13:00:00 to 2018-04-27T14:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T13:00:00 -->
+        <windDirection deg="250.5" code="WSW" name="West-southwest" />
+        <windSpeed mps="5.3" name="Gentle breeze" />
+        <temperature unit="celsius" value="15" />
+        <pressure unit="hPa" value="1009.5" />
+      </time>
+      <time from="2018-04-27T14:00:00" to="2018-04-27T15:00:00">
+        <!-- Valid from 2018-04-27T14:00:00 to 2018-04-27T15:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T14:00:00 -->
+        <windDirection deg="248.6" code="WSW" name="West-southwest" />
+        <windSpeed mps="5.1" name="Gentle breeze" />
+        <temperature unit="celsius" value="15" />
+        <pressure unit="hPa" value="1009.5" />
+      </time>
+      <time from="2018-04-27T15:00:00" to="2018-04-27T16:00:00">
+        <!-- Valid from 2018-04-27T15:00:00 to 2018-04-27T16:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T15:00:00 -->
+        <windDirection deg="247.8" code="WSW" name="West-southwest" />
+        <windSpeed mps="4.7" name="Gentle breeze" />
+        <temperature unit="celsius" value="15" />
+        <pressure unit="hPa" value="1009.4" />
+      </time>
+      <time from="2018-04-27T16:00:00" to="2018-04-27T17:00:00">
+        <!-- Valid from 2018-04-27T16:00:00 to 2018-04-27T17:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T16:00:00 -->
+        <windDirection deg="248.4" code="WSW" name="West-southwest" />
+        <windSpeed mps="4.2" name="Gentle breeze" />
+        <temperature unit="celsius" value="15" />
+        <pressure unit="hPa" value="1009.3" />
+      </time>
+      <time from="2018-04-27T17:00:00" to="2018-04-27T18:00:00">
+        <!-- Valid from 2018-04-27T17:00:00 to 2018-04-27T18:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T17:00:00 -->
+        <windDirection deg="246.2" code="WSW" name="West-southwest" />
+        <windSpeed mps="3.8" name="Gentle breeze" />
+        <temperature unit="celsius" value="15" />
+        <pressure unit="hPa" value="1009.1" />
+      </time>
+      <time from="2018-04-27T18:00:00" to="2018-04-27T19:00:00">
+        <!-- Valid from 2018-04-27T18:00:00 to 2018-04-27T19:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T18:00:00 -->
+        <windDirection deg="240.6" code="WSW" name="West-southwest" />
+        <windSpeed mps="3.5" name="Gentle breeze" />
+        <temperature unit="celsius" value="14" />
+        <pressure unit="hPa" value="1009.2" />
+      </time>
+      <time from="2018-04-27T19:00:00" to="2018-04-27T20:00:00">
+        <!-- Valid from 2018-04-27T19:00:00 to 2018-04-27T20:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T19:00:00 -->
+        <windDirection deg="233.7" code="SW" name="Southwest" />
+        <windSpeed mps="3.6" name="Gentle breeze" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1009.6" />
+      </time>
+      <time from="2018-04-27T20:00:00" to="2018-04-27T21:00:00">
+        <!-- Valid from 2018-04-27T20:00:00 to 2018-04-27T21:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T20:00:00 -->
+        <windDirection deg="231.9" code="SW" name="Southwest" />
+        <windSpeed mps="3.1" name="Light breeze" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1009.7" />
+      </time>
+      <time from="2018-04-27T21:00:00" to="2018-04-27T22:00:00">
+        <!-- Valid from 2018-04-27T21:00:00 to 2018-04-27T22:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T21:00:00 -->
+        <windDirection deg="224.6" code="SW" name="Southwest" />
+        <windSpeed mps="2.9" name="Light breeze" />
+        <temperature unit="celsius" value="12" />
+        <pressure unit="hPa" value="1010.0" />
+      </time>
+      <time from="2018-04-27T22:00:00" to="2018-04-27T23:00:00">
+        <!-- Valid from 2018-04-27T22:00:00 to 2018-04-27T23:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T22:00:00 -->
+        <windDirection deg="232.4" code="SW" name="Southwest" />
+        <windSpeed mps="2.1" name="Light breeze" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1010.1" />
+      </time>
+      <time from="2018-04-27T23:00:00" to="2018-04-28T00:00:00">
+        <!-- Valid from 2018-04-27T23:00:00 to 2018-04-28T00:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-27T23:00:00 -->
+        <windDirection deg="231.7" code="SW" name="Southwest" />
+        <windSpeed mps="2.4" name="Light breeze" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1010.3" />
+      </time>
+      <time from="2018-04-28T00:00:00" to="2018-04-28T01:00:00">
+        <!-- Valid from 2018-04-28T00:00:00 to 2018-04-28T01:00:00 -->
+        <symbol number="9" numberEx="46" name="Light rain" var="46" />
+        <precipitation value="0.2" minvalue="0.1" maxvalue="0.4" />
+        <!-- Valid at 2018-04-28T00:00:00 -->
+        <windDirection deg="258.9" code="W" name="West" />
+        <windSpeed mps="2.6" name="Light breeze" />
+        <temperature unit="celsius" value="10" />
+        <pressure unit="hPa" value="1010.3" />
+      </time>
+      <time from="2018-04-28T01:00:00" to="2018-04-28T02:00:00">
+        <!-- Valid from 2018-04-28T01:00:00 to 2018-04-28T02:00:00 -->
+        <symbol number="9" numberEx="9" name="Rain" var="09" />
+        <precipitation value="0.6" minvalue="0.5" maxvalue="0.7" />
+        <!-- Valid at 2018-04-28T01:00:00 -->
+        <windDirection deg="246.3" code="WSW" name="West-southwest" />
+        <windSpeed mps="2.0" name="Light breeze" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1010.4" />
+      </time>
+    </tabular>
+  </forecast>
+</weatherdata>

@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<weatherdata>
+  <location>
+    <name>Aarhus</name>
+    <type>Administration centre</type>
+    <country>Denmark</country>
+    <timezone id="Europe/Copenhagen" utcoffsetMinutes="120" />
+    <location altitude="10" latitude="56.15674" longitude="10.21076" geobase="geonames" geobaseid="2624652" />
+  </location>
+  <credit>
+    <!--In order to use the free weather data from yr no, you HAVE to display 
+the following text clearly visible on your web page. The text should be a 
+link to the specified URL.-->
+    <!--Please read more about our conditions and guidelines at http://om.yr.no/verdata/  English explanation at http://om.yr.no/verdata/free-weather-data/-->
+    <link text="Weather forecast from Yr, delivered by the Norwegian Meteorological Institute and the NRK" url="http://www.yr.no/place/Denmark/Central_Jutland/Aarhus/" />
+  </credit>
+  <links>
+    <link id="xmlSource" url="http://www.yr.no/place/Denmark/Central_Jutland/Aarhus/forecast.xml" />
+    <link id="xmlSourceHourByHour" url="http://www.yr.no/place/Denmark/Central_Jutland/Aarhus/forecast_hour_by_hour.xml" />
+    <link id="overview" url="http://www.yr.no/place/Denmark/Central_Jutland/Aarhus/" />
+    <link id="hourByHour" url="http://www.yr.no/place/Denmark/Central_Jutland/Aarhus/hour_by_hour" />
+    <link id="longTermForecast" url="http://www.yr.no/place/Denmark/Central_Jutland/Aarhus/long" />
+  </links>
+  <meta>
+    <lastupdate>2018-04-09T10:27:00</lastupdate>
+    <nextupdate>2018-04-09T18:00:00</nextupdate>
+  </meta>
+  <sun rise="2018-04-09T06:29:09" set="2018-04-09T20:13:40" />
+  <forecast>
+    <tabular>
+      <time from="2018-04-09T14:00:00" to="2018-04-09T15:00:00">
+        <!-- Valid from 2018-04-09T14:00:00 to 2018-04-09T15:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-09T14:00:00 -->
+        <windDirection deg="331.7" code="NNW" name="North-northwest" />
+        <windSpeed mps="3.1" name="Light breeze" />
+        <temperature unit="celsius" value="16" />
+        <pressure unit="hPa" value="1007.4" />
+      </time>
+      <time from="2018-04-09T15:00:00" to="2018-04-09T16:00:00">
+        <!-- Valid from 2018-04-09T15:00:00 to 2018-04-09T16:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-09T15:00:00 -->
+        <windDirection deg="330.1" code="NNW" name="North-northwest" />
+        <windSpeed mps="3.4" name="Gentle breeze" />
+        <temperature unit="celsius" value="16" />
+        <pressure unit="hPa" value="1007.6" />
+      </time>
+      <time from="2018-04-09T16:00:00" to="2018-04-09T17:00:00">
+        <!-- Valid from 2018-04-09T16:00:00 to 2018-04-09T17:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-09T16:00:00 -->
+        <windDirection deg="331.0" code="NNW" name="North-northwest" />
+        <windSpeed mps="3.4" name="Gentle breeze" />
+        <temperature unit="celsius" value="16" />
+        <pressure unit="hPa" value="1007.7" />
+      </time>
+      <time from="2018-04-09T17:00:00" to="2018-04-09T18:00:00">
+        <!-- Valid from 2018-04-09T17:00:00 to 2018-04-09T18:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-09T17:00:00 -->
+        <windDirection deg="340.5" code="NNW" name="North-northwest" />
+        <windSpeed mps="2.9" name="Light breeze" />
+        <temperature unit="celsius" value="15" />
+        <pressure unit="hPa" value="1007.7" />
+      </time>
+      <time from="2018-04-09T18:00:00" to="2018-04-09T19:00:00">
+        <!-- Valid from 2018-04-09T18:00:00 to 2018-04-09T19:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-09T18:00:00 -->
+        <windDirection deg="351.4" code="N" name="North" />
+        <windSpeed mps="2.6" name="Light breeze" />
+        <temperature unit="celsius" value="15" />
+        <pressure unit="hPa" value="1007.8" />
+      </time>
+      <time from="2018-04-09T19:00:00" to="2018-04-09T20:00:00">
+        <!-- Valid from 2018-04-09T19:00:00 to 2018-04-09T20:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-09T19:00:00 -->
+        <windDirection deg="85.2" code="E" name="East" />
+        <windSpeed mps="2.8" name="Light breeze" />
+        <temperature unit="celsius" value="13" />
+        <pressure unit="hPa" value="1008.2" />
+      </time>
+      <time from="2018-04-09T20:00:00" to="2018-04-09T21:00:00">
+        <!-- Valid from 2018-04-09T20:00:00 to 2018-04-09T21:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-09T20:00:00 -->
+        <windDirection deg="50.0" code="NE" name="Northeast" />
+        <windSpeed mps="2.6" name="Light breeze" />
+        <temperature unit="celsius" value="11" />
+        <pressure unit="hPa" value="1008.8" />
+      </time>
+      <time from="2018-04-09T21:00:00" to="2018-04-09T22:00:00">
+        <!-- Valid from 2018-04-09T21:00:00 to 2018-04-09T22:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-09T21:00:00 -->
+        <windDirection deg="36.3" code="NE" name="Northeast" />
+        <windSpeed mps="3.8" name="Gentle breeze" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1009.3" />
+      </time>
+      <time from="2018-04-09T22:00:00" to="2018-04-09T23:00:00">
+        <!-- Valid from 2018-04-09T22:00:00 to 2018-04-09T23:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-09T22:00:00 -->
+        <windDirection deg="29.0" code="NNE" name="North-northeast" />
+        <windSpeed mps="3.5" name="Gentle breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1009.7" />
+      </time>
+      <time from="2018-04-09T23:00:00" to="2018-04-10T00:00:00">
+        <!-- Valid from 2018-04-09T23:00:00 to 2018-04-10T00:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-09T23:00:00 -->
+        <windDirection deg="31.5" code="NNE" name="North-northeast" />
+        <windSpeed mps="3.3" name="Light breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1010.1" />
+      </time>
+      <time from="2018-04-10T00:00:00" to="2018-04-10T01:00:00">
+        <!-- Valid from 2018-04-10T00:00:00 to 2018-04-10T01:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T00:00:00 -->
+        <windDirection deg="24.8" code="NNE" name="North-northeast" />
+        <windSpeed mps="3.6" name="Gentle breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1010.5" />
+      </time>
+      <time from="2018-04-10T01:00:00" to="2018-04-10T02:00:00">
+        <!-- Valid from 2018-04-10T01:00:00 to 2018-04-10T02:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T01:00:00 -->
+        <windDirection deg="13.7" code="NNE" name="North-northeast" />
+        <windSpeed mps="3.6" name="Gentle breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1010.5" />
+      </time>
+      <time from="2018-04-10T02:00:00" to="2018-04-10T03:00:00">
+        <!-- Valid from 2018-04-10T02:00:00 to 2018-04-10T03:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T02:00:00 -->
+        <windDirection deg="20.4" code="NNE" name="North-northeast" />
+        <windSpeed mps="3.9" name="Gentle breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1010.7" />
+      </time>
+      <time from="2018-04-10T03:00:00" to="2018-04-10T04:00:00">
+        <!-- Valid from 2018-04-10T03:00:00 to 2018-04-10T04:00:00 -->
+        <symbol number="15" numberEx="15" name="Fog" var="15" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T03:00:00 -->
+        <windDirection deg="25.0" code="NNE" name="North-northeast" />
+        <windSpeed mps="4.0" name="Gentle breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1010.8" />
+      </time>
+      <time from="2018-04-10T04:00:00" to="2018-04-10T05:00:00">
+        <!-- Valid from 2018-04-10T04:00:00 to 2018-04-10T05:00:00 -->
+        <symbol number="15" numberEx="15" name="Fog" var="15" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T04:00:00 -->
+        <windDirection deg="26.7" code="NNE" name="North-northeast" />
+        <windSpeed mps="4.1" name="Gentle breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1010.9" />
+      </time>
+      <time from="2018-04-10T05:00:00" to="2018-04-10T06:00:00">
+        <!-- Valid from 2018-04-10T05:00:00 to 2018-04-10T06:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T05:00:00 -->
+        <windDirection deg="32.5" code="NNE" name="North-northeast" />
+        <windSpeed mps="4.8" name="Gentle breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1010.9" />
+      </time>
+      <time from="2018-04-10T06:00:00" to="2018-04-10T07:00:00">
+        <!-- Valid from 2018-04-10T06:00:00 to 2018-04-10T07:00:00 -->
+        <symbol number="15" numberEx="15" name="Fog" var="15" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T06:00:00 -->
+        <windDirection deg="37.2" code="NE" name="Northeast" />
+        <windSpeed mps="5.6" name="Moderate breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1010.9" />
+      </time>
+      <time from="2018-04-10T07:00:00" to="2018-04-10T08:00:00">
+        <!-- Valid from 2018-04-10T07:00:00 to 2018-04-10T08:00:00 -->
+        <symbol number="15" numberEx="15" name="Fog" var="15" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T07:00:00 -->
+        <windDirection deg="37.0" code="NE" name="Northeast" />
+        <windSpeed mps="5.0" name="Gentle breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1011.4" />
+      </time>
+      <time from="2018-04-10T08:00:00" to="2018-04-10T09:00:00">
+        <!-- Valid from 2018-04-10T08:00:00 to 2018-04-10T09:00:00 -->
+        <symbol number="15" numberEx="15" name="Fog" var="15" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T08:00:00 -->
+        <windDirection deg="40.4" code="NE" name="Northeast" />
+        <windSpeed mps="4.5" name="Gentle breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1011.9" />
+      </time>
+      <time from="2018-04-10T09:00:00" to="2018-04-10T10:00:00">
+        <!-- Valid from 2018-04-10T09:00:00 to 2018-04-10T10:00:00 -->
+        <symbol number="15" numberEx="15" name="Fog" var="15" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T09:00:00 -->
+        <windDirection deg="47.7" code="NE" name="Northeast" />
+        <windSpeed mps="4.7" name="Gentle breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1012.5" />
+      </time>
+      <time from="2018-04-10T10:00:00" to="2018-04-10T11:00:00">
+        <!-- Valid from 2018-04-10T10:00:00 to 2018-04-10T11:00:00 -->
+        <symbol number="15" numberEx="15" name="Fog" var="15" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T10:00:00 -->
+        <windDirection deg="65.7" code="ENE" name="East-northeast" />
+        <windSpeed mps="5.2" name="Gentle breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1013.3" />
+      </time>
+      <time from="2018-04-10T11:00:00" to="2018-04-10T12:00:00">
+        <!-- Valid from 2018-04-10T11:00:00 to 2018-04-10T12:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T11:00:00 -->
+        <windDirection deg="72.9" code="ENE" name="East-northeast" />
+        <windSpeed mps="5.2" name="Gentle breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1014.0" />
+      </time>
+      <time from="2018-04-10T12:00:00" to="2018-04-10T13:00:00">
+        <!-- Valid from 2018-04-10T12:00:00 to 2018-04-10T13:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T12:00:00 -->
+        <windDirection deg="74.9" code="ENE" name="East-northeast" />
+        <windSpeed mps="5.3" name="Gentle breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1014.4" />
+      </time>
+      <time from="2018-04-10T13:00:00" to="2018-04-10T14:00:00">
+        <!-- Valid from 2018-04-10T13:00:00 to 2018-04-10T14:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T13:00:00 -->
+        <windDirection deg="73.2" code="ENE" name="East-northeast" />
+        <windSpeed mps="5.0" name="Gentle breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1015.0" />
+      </time>
+      <time from="2018-04-10T14:00:00" to="2018-04-10T15:00:00">
+        <!-- Valid from 2018-04-10T14:00:00 to 2018-04-10T15:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T14:00:00 -->
+        <windDirection deg="65.3" code="ENE" name="East-northeast" />
+        <windSpeed mps="4.8" name="Gentle breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1015.4" />
+      </time>
+      <time from="2018-04-10T15:00:00" to="2018-04-10T16:00:00">
+        <!-- Valid from 2018-04-10T15:00:00 to 2018-04-10T16:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T15:00:00 -->
+        <windDirection deg="58.5" code="ENE" name="East-northeast" />
+        <windSpeed mps="5.0" name="Gentle breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1015.3" />
+      </time>
+      <time from="2018-04-10T16:00:00" to="2018-04-10T17:00:00">
+        <!-- Valid from 2018-04-10T16:00:00 to 2018-04-10T17:00:00 -->
+        <symbol number="4" numberEx="4" name="Cloudy" var="04" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T16:00:00 -->
+        <windDirection deg="61.9" code="ENE" name="East-northeast" />
+        <windSpeed mps="5.6" name="Moderate breeze" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1015.4" />
+      </time>
+      <time from="2018-04-10T17:00:00" to="2018-04-10T18:00:00">
+        <!-- Valid from 2018-04-10T17:00:00 to 2018-04-10T18:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T17:00:00 -->
+        <windDirection deg="61.3" code="ENE" name="East-northeast" />
+        <windSpeed mps="6.0" name="Moderate breeze" />
+        <temperature unit="celsius" value="10" />
+        <pressure unit="hPa" value="1015.2" />
+      </time>
+      <time from="2018-04-10T18:00:00" to="2018-04-10T19:00:00">
+        <!-- Valid from 2018-04-10T18:00:00 to 2018-04-10T19:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T18:00:00 -->
+        <windDirection deg="59.2" code="ENE" name="East-northeast" />
+        <windSpeed mps="5.6" name="Moderate breeze" />
+        <temperature unit="celsius" value="10" />
+        <pressure unit="hPa" value="1015.2" />
+      </time>
+      <time from="2018-04-10T19:00:00" to="2018-04-10T20:00:00">
+        <!-- Valid from 2018-04-10T19:00:00 to 2018-04-10T20:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T19:00:00 -->
+        <windDirection deg="56.9" code="ENE" name="East-northeast" />
+        <windSpeed mps="5.3" name="Gentle breeze" />
+        <temperature unit="celsius" value="10" />
+        <pressure unit="hPa" value="1015.2" />
+      </time>
+      <time from="2018-04-10T20:00:00" to="2018-04-10T21:00:00">
+        <!-- Valid from 2018-04-10T20:00:00 to 2018-04-10T21:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T20:00:00 -->
+        <windDirection deg="56.1" code="NE" name="Northeast" />
+        <windSpeed mps="5.2" name="Gentle breeze" />
+        <temperature unit="celsius" value="9" />
+        <pressure unit="hPa" value="1015.6" />
+      </time>
+      <time from="2018-04-10T21:00:00" to="2018-04-10T22:00:00">
+        <!-- Valid from 2018-04-10T21:00:00 to 2018-04-10T22:00:00 -->
+        <symbol number="2" numberEx="2" name="Fair" var="02n" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T21:00:00 -->
+        <windDirection deg="59.7" code="ENE" name="East-northeast" />
+        <windSpeed mps="5.4" name="Gentle breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1016.4" />
+      </time>
+      <time from="2018-04-10T22:00:00" to="2018-04-10T23:00:00">
+        <!-- Valid from 2018-04-10T22:00:00 to 2018-04-10T23:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T22:00:00 -->
+        <windDirection deg="67.1" code="ENE" name="East-northeast" />
+        <windSpeed mps="6.0" name="Moderate breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1017.2" />
+      </time>
+      <time from="2018-04-10T23:00:00" to="2018-04-11T00:00:00">
+        <!-- Valid from 2018-04-10T23:00:00 to 2018-04-11T00:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-10T23:00:00 -->
+        <windDirection deg="73.2" code="ENE" name="East-northeast" />
+        <windSpeed mps="6.2" name="Moderate breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1017.8" />
+      </time>
+      <time from="2018-04-11T00:00:00" to="2018-04-11T01:00:00">
+        <!-- Valid from 2018-04-11T00:00:00 to 2018-04-11T01:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-11T00:00:00 -->
+        <windDirection deg="74.1" code="ENE" name="East-northeast" />
+        <windSpeed mps="6.0" name="Moderate breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1018.3" />
+      </time>
+      <time from="2018-04-11T01:00:00" to="2018-04-11T02:00:00">
+        <!-- Valid from 2018-04-11T01:00:00 to 2018-04-11T02:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-11T01:00:00 -->
+        <windDirection deg="70.3" code="ENE" name="East-northeast" />
+        <windSpeed mps="5.9" name="Moderate breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1018.8" />
+      </time>
+      <time from="2018-04-11T02:00:00" to="2018-04-11T03:00:00">
+        <!-- Valid from 2018-04-11T02:00:00 to 2018-04-11T03:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-11T02:00:00 -->
+        <windDirection deg="68.9" code="ENE" name="East-northeast" />
+        <windSpeed mps="6.2" name="Moderate breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1019.1" />
+      </time>
+      <time from="2018-04-11T03:00:00" to="2018-04-11T04:00:00">
+        <!-- Valid from 2018-04-11T03:00:00 to 2018-04-11T04:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-11T03:00:00 -->
+        <windDirection deg="70.3" code="ENE" name="East-northeast" />
+        <windSpeed mps="6.1" name="Moderate breeze" />
+        <temperature unit="celsius" value="4" />
+        <pressure unit="hPa" value="1018.9" />
+      </time>
+      <time from="2018-04-11T04:00:00" to="2018-04-11T05:00:00">
+        <!-- Valid from 2018-04-11T04:00:00 to 2018-04-11T05:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03n" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-11T04:00:00 -->
+        <windDirection deg="72.8" code="ENE" name="East-northeast" />
+        <windSpeed mps="6.1" name="Moderate breeze" />
+        <temperature unit="celsius" value="4" />
+        <pressure unit="hPa" value="1018.6" />
+      </time>
+      <time from="2018-04-11T05:00:00" to="2018-04-11T06:00:00">
+        <!-- Valid from 2018-04-11T05:00:00 to 2018-04-11T06:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01n" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-11T05:00:00 -->
+        <windDirection deg="66.3" code="ENE" name="East-northeast" />
+        <windSpeed mps="5.8" name="Moderate breeze" />
+        <temperature unit="celsius" value="3" />
+        <pressure unit="hPa" value="1018.7" />
+      </time>
+      <time from="2018-04-11T06:00:00" to="2018-04-11T07:00:00">
+        <!-- Valid from 2018-04-11T06:00:00 to 2018-04-11T07:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01n" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-11T06:00:00 -->
+        <windDirection deg="53.8" code="NE" name="Northeast" />
+        <windSpeed mps="5.9" name="Moderate breeze" />
+        <temperature unit="celsius" value="3" />
+        <pressure unit="hPa" value="1018.8" />
+      </time>
+      <time from="2018-04-11T07:00:00" to="2018-04-11T08:00:00">
+        <!-- Valid from 2018-04-11T07:00:00 to 2018-04-11T08:00:00 -->
+        <symbol number="2" numberEx="2" name="Fair" var="02d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-11T07:00:00 -->
+        <windDirection deg="56.0" code="NE" name="Northeast" />
+        <windSpeed mps="5.8" name="Moderate breeze" />
+        <temperature unit="celsius" value="3" />
+        <pressure unit="hPa" value="1018.9" />
+      </time>
+      <time from="2018-04-11T08:00:00" to="2018-04-11T09:00:00">
+        <!-- Valid from 2018-04-11T08:00:00 to 2018-04-11T09:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-11T08:00:00 -->
+        <windDirection deg="60.2" code="ENE" name="East-northeast" />
+        <windSpeed mps="5.6" name="Moderate breeze" />
+        <temperature unit="celsius" value="3" />
+        <pressure unit="hPa" value="1018.8" />
+      </time>
+      <time from="2018-04-11T09:00:00" to="2018-04-11T10:00:00">
+        <!-- Valid from 2018-04-11T09:00:00 to 2018-04-11T10:00:00 -->
+        <symbol number="3" numberEx="3" name="Partly cloudy" var="03d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-11T09:00:00 -->
+        <windDirection deg="60.4" code="ENE" name="East-northeast" />
+        <windSpeed mps="6.1" name="Moderate breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1018.9" />
+      </time>
+      <time from="2018-04-11T10:00:00" to="2018-04-11T11:00:00">
+        <!-- Valid from 2018-04-11T10:00:00 to 2018-04-11T11:00:00 -->
+        <symbol number="2" numberEx="2" name="Fair" var="02d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-11T10:00:00 -->
+        <windDirection deg="62.0" code="ENE" name="East-northeast" />
+        <windSpeed mps="6.6" name="Moderate breeze" />
+        <temperature unit="celsius" value="5" />
+        <pressure unit="hPa" value="1019.0" />
+      </time>
+      <time from="2018-04-11T11:00:00" to="2018-04-11T12:00:00">
+        <!-- Valid from 2018-04-11T11:00:00 to 2018-04-11T12:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-11T11:00:00 -->
+        <windDirection deg="64.9" code="ENE" name="East-northeast" />
+        <windSpeed mps="6.7" name="Moderate breeze" />
+        <temperature unit="celsius" value="6" />
+        <pressure unit="hPa" value="1018.9" />
+      </time>
+      <time from="2018-04-11T12:00:00" to="2018-04-11T13:00:00">
+        <!-- Valid from 2018-04-11T12:00:00 to 2018-04-11T13:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-11T12:00:00 -->
+        <windDirection deg="70.8" code="ENE" name="East-northeast" />
+        <windSpeed mps="6.6" name="Moderate breeze" />
+        <temperature unit="celsius" value="7" />
+        <pressure unit="hPa" value="1019.0" />
+      </time>
+      <time from="2018-04-11T13:00:00" to="2018-04-11T14:00:00">
+        <!-- Valid from 2018-04-11T13:00:00 to 2018-04-11T14:00:00 -->
+        <symbol number="1" numberEx="1" name="Clear sky" var="01d" />
+        <precipitation value="0" />
+        <!-- Valid at 2018-04-11T13:00:00 -->
+        <windDirection deg="69.1" code="ENE" name="East-northeast" />
+        <windSpeed mps="6.6" name="Moderate breeze" />
+        <temperature unit="celsius" value="8" />
+        <pressure unit="hPa" value="1018.8" />
+      </time>
+    </tabular>
+  </forecast>
+</weatherdata>
